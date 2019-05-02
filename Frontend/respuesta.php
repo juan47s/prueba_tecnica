@@ -23,7 +23,7 @@
 					}				
 					echo "<textarea disabled class='caja'>".$respuesta."</textarea>";
 				?>
-				<input type="submit" class="boton" name="atras" value="Atras">
+				<input type="submit" class="boton" name="atras" value="Atras" id="atras">
 			</form>
 		</div>		
 	</div>

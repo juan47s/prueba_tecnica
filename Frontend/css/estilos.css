@@ -23,14 +23,19 @@ body{
 }
 
 
+#procesar, #atras{
+	top:180px;	
+}
+
+#ejemplo{
+	top:280px;
+}
 
 .boton{	
 	font-family: cursive bold;
 	font-size: 30px;
-	top:200px;
-	margin-left:10%;
+	right:25%;
 	position: absolute;
-
 	background-color: #FE642E; 
 	color:#F6CECE;
 	border: 1px solid #F6CECE;	
